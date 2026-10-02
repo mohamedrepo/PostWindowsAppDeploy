@@ -1,0 +1,19 @@
+# PowerShell
+*.ps1.txt
+*.exe.txt
+*.log
+*.csv
+
+# Download artifacts
+C:\Applications\Downloads\*
+C:\Applications\Drivers\*
+
+# Generated files
+checksums.sha256
+driver-manifest.txt
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
